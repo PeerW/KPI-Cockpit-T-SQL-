@@ -1,5 +1,9 @@
 # Key Performance Indicator Cockpit - Data Model 
 
+## Disclaimer
+This repository is solely available to demonstrate my T-SQL skills and Data Modelling skills.
+I will not dive into details about the project since most of the data is confidential. 
+
 ## Introduction - the project's aim
 I worked and implemented this project during my time as student worker at Vestas A/S.
 The project was successfully implemented and is currently used as a KPI managment tool within Vestas Power Solutions (2000+ employees).
@@ -17,9 +21,17 @@ DAX was extensively utilized to implement the complex logic necessary for 200+ K
 [Microsoft Power Automate](https://powerapps.microsoft.com/en-us/) was utilized to automate workflows related to the project and enhance user experience. 
 
 
-## Notes
-I will not dive into details about the project since most of the data is confidential. 
-This repository is solely available to demonstrate my T-SQL skills and Data Modelling skills.
-If you have questions, please reach out!
+## Skills being demonstrated
+- Relational Database Modelling
+- Implementing Stored Procedures (e.g. with *complex* merge statements and time intelligence)
+- Utilizing Primary and Foreign Keys
+- Creating tables
+- Creating user defined functions
+- Implementing tempory tables
+- Working with joins
+- Working with Null Values 
+- ...
 
 Have a great day! 
+
+![alt text](http://url/to/img.png)
